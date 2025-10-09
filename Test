@@ -1,0 +1,3 @@
+In the context, the License option was initially not showing in the More menu. Tyler suggested moving the folder to app → inside → private, and then we updated everything from entitlement to license. After that, it started working.
+
+However, when clicking the back button from the Contact Us page, it still shows the Open License page. Tyler then suggested moving it under the More menu, and after doing that, it worked intermittently.
